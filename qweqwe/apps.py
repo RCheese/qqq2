@@ -7,3 +7,7 @@ class QweqweConfig(AppConfig):
 
 class Def:
     pass
+
+
+class Dev:
+    pass
